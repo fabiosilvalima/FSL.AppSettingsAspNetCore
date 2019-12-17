@@ -5,7 +5,7 @@
 
 > **FULL ARTICLE:**
 >
-> English: N/A
+> English: https://www.fabiosilvalima.com/appsettings-read-config-aspnetcore/
 >
 > Português: https://www.fabiosilvalima.net/6-formas-appsettings-json-aspnet-core/
 
